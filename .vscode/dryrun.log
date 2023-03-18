@@ -1,0 +1,11 @@
+make -f /Users/stevenmartin/Dropbox/KT_SOL_Teensy/build/Makefile --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/stevenmartin/Dropbox/KT_SOL_Teensy'
+ 
+make: /Users/stevenmartin/Dropbox/KT_SOL_Teensy/build/Makefile: No such file or directory
+
+make: *** No rule to make target `/Users/stevenmartin/Dropbox/KT_SOL_Teensy/build/Makefile'.
+make: Failed to remake makefile `/Users/stevenmartin/Dropbox/KT_SOL_Teensy/build/Makefile'.
+make: *** No targets specified and no makefile found.  Stop.
+
+make: Leaving directory `/Users/stevenmartin/Dropbox/KT_SOL_Teensy'
+ 
